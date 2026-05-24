@@ -1,0 +1,6 @@
+@ApiFerreteria_HostAddress = http://localhost:5016
+
+GET {{ApiFerreteria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
