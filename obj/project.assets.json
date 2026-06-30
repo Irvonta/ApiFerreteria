@@ -5170,19 +5170,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cmoyv\\.nuget\\packages\\": {}
+    "C:\\Users\\Irving EyH\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cmoyv\\OneDrive\\Desktop\\Agente Ventas App\\ApiFerreteria\\ApiFerreteria.csproj",
+      "projectUniqueName": "C:\\Proyectos\\ApiFerreteria\\ApiFerreteria.csproj",
       "projectName": "ApiFerreteria",
-      "projectPath": "C:\\Users\\cmoyv\\OneDrive\\Desktop\\Agente Ventas App\\ApiFerreteria\\ApiFerreteria.csproj",
-      "packagesPath": "C:\\Users\\cmoyv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cmoyv\\OneDrive\\Desktop\\Agente Ventas App\\ApiFerreteria\\obj\\",
+      "projectPath": "C:\\Proyectos\\ApiFerreteria\\ApiFerreteria.csproj",
+      "packagesPath": "C:\\Users\\Irving EyH\\.nuget\\packages\\",
+      "outputPath": "C:\\Proyectos\\ApiFerreteria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cmoyv\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Irving EyH\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -5250,7 +5250,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
