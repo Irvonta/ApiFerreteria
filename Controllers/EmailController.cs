@@ -21,7 +21,7 @@ namespace ApiFerreteria.Controllers
 
                 using (var smtp = new SmtpClient("smtp.gmail.com", 587))
                 {
-                    smtp.Credentials = new NetworkCredential("irvingdanielvalenzuelacardenas@gmail.com", "sacgnsrmchjmqmjm");
+                    smtp.Credentials = new NetworkCredential("irvingdanielvalenzuelacardenas@gmail.com", "rgjfaqxbpqeoefsu");
                     smtp.EnableSsl = true;
 
                     var mail = new MailMessage("irvingdanielvalenzuelacardenas@gmail.com", request.Destinatario)
